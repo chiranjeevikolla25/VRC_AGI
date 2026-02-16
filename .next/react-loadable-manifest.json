@@ -1,0 +1,46 @@
+{
+  "..\\..\\node_modules\\langchain\\dist\\base_language\\count_tokens.js -> @dqbd/tiktoken": {
+    "id": "..\\..\\node_modules\\langchain\\dist\\base_language\\count_tokens.js -> @dqbd/tiktoken",
+    "files": [
+      "static/chunks/node_modules_dqbd_tiktoken_tiktoken_js.js"
+    ]
+  },
+  "..\\..\\node_modules\\langchain\\dist\\base_language\\index.js -> ../chat_models/openai.js": {
+    "id": "..\\..\\node_modules\\langchain\\dist\\base_language\\index.js -> ../chat_models/openai.js",
+    "files": []
+  },
+  "..\\..\\node_modules\\langchain\\dist\\chains\\base.js -> ./combine_docs_chain.js": {
+    "id": "..\\..\\node_modules\\langchain\\dist\\chains\\base.js -> ./combine_docs_chain.js",
+    "files": []
+  },
+  "..\\..\\node_modules\\langchain\\dist\\chains\\base.js -> ./llm_chain.js": {
+    "id": "..\\..\\node_modules\\langchain\\dist\\chains\\base.js -> ./llm_chain.js",
+    "files": []
+  },
+  "..\\..\\node_modules\\langchain\\dist\\chains\\base.js -> ./sequential_chain.js": {
+    "id": "..\\..\\node_modules\\langchain\\dist\\chains\\base.js -> ./sequential_chain.js",
+    "files": []
+  },
+  "..\\..\\node_modules\\langchain\\dist\\chains\\base.js -> ./vector_db_qa.js": {
+    "id": "..\\..\\node_modules\\langchain\\dist\\chains\\base.js -> ./vector_db_qa.js",
+    "files": []
+  },
+  "..\\..\\node_modules\\langchain\\dist\\llms\\base.js -> ./openai.js": {
+    "id": "..\\..\\node_modules\\langchain\\dist\\llms\\base.js -> ./openai.js",
+    "files": []
+  },
+  "..\\..\\node_modules\\langchain\\dist\\prompts\\base.js -> ./few_shot.js": {
+    "id": "..\\..\\node_modules\\langchain\\dist\\prompts\\base.js -> ./few_shot.js",
+    "files": []
+  },
+  "..\\..\\node_modules\\langchain\\dist\\prompts\\base.js -> ./prompt.js": {
+    "id": "..\\..\\node_modules\\langchain\\dist\\prompts\\base.js -> ./prompt.js",
+    "files": []
+  },
+  "..\\..\\node_modules\\langchain\\dist\\text_splitter.js -> @dqbd/tiktoken": {
+    "id": "..\\..\\node_modules\\langchain\\dist\\text_splitter.js -> @dqbd/tiktoken",
+    "files": [
+      "static/chunks/node_modules_dqbd_tiktoken_tiktoken_js.js"
+    ]
+  }
+}

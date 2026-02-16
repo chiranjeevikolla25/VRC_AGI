@@ -1,0 +1,23 @@
+{
+  "sortedMiddleware": [],
+  "middleware": {},
+  "functions": {
+    "/api/agent": {
+      "files": [
+        "server/edge-runtime-webpack.js",
+        "server/pages/api/agent.js"
+      ],
+      "name": "pages/api/agent",
+      "page": "/api/agent",
+      "matchers": [
+        {
+          "regexp": "^/api/agent$",
+          "originalSource": "/api/agent"
+        }
+      ],
+      "wasm": [],
+      "assets": []
+    }
+  },
+  "version": 2
+}
